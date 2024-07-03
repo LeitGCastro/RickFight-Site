@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Garrafa",
+        "description": "Garrafa de água customizada",
+        "messageText": "Garrafa",
+        "image": "bottle.jpg"
+    },
+    {
+        "title": "Bermuda preta",
+        "description": "Bermuda customizada na cor preta",
+        "messageText": "Bermuda preta",
+        "image": "blackShirt.jpg"
+    },
+    {
+        "title": "Boné",
+        "description": "Boné Rick Fight",
+        "messageText": "Boné",
+        "image": "cap.jpg"
+    },
+    {
+        "title": "Bermuda branca",
+        "description": "Bermuda customizada na cor branca",
+        "messageText": "Bermuda branca",
+        "image": "whiteShirt.jpg"
+    }
+]
